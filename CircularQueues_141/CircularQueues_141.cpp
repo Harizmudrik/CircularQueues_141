@@ -102,7 +102,12 @@ int main()
     Queues q;
     char ch;
 
-
+    while (true) {
+        try {
+            cout << "Menu" << endl;
+            cout << "1. Implement insert operation" << endl;
+        }
+    }
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
