@@ -89,37 +89,20 @@ public:
                 cout << queue_array[FRONT_position] << " ";
                 FRONT_position++;
             }
+            cout << endl;
         }
 
     }
 
-
-
-
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    Queues q;
+    char ch;
+
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
