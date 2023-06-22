@@ -40,7 +40,9 @@ public:
         queue_array[REAR] = num;
     }
 
-    void r
+    void remove() {
+        //cek apakah antrian kosong 
+    }
 
 
 };
